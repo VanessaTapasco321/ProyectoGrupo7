@@ -209,7 +209,7 @@ def mostrar_menu():
     print("12. Eliminar cliente")
     print("13. Salir")
 
-# Bucle del menú
+# Bucle del menú #Hola
 while True:
     mostrar_menu()
     opcion = input("\nElige una opción: ")
