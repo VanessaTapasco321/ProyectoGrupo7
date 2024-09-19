@@ -293,7 +293,7 @@ while True:
         eliminar_paquete(paquetes, nombre_paquete)
 
     elif opcion == "11":
-        nombre_cliente = input("Nombre del cliente a actualizar: ").strip().lower()
+        nombre_cliente = input("Nombre del cliente a actualizar: ").strip()
         nuevo_correo = input("Nuevo correo del cliente: ").strip()
         actualizar_cliente(clientes, nombre_cliente, nuevo_correo)
 
