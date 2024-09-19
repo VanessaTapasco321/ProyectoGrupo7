@@ -53,7 +53,7 @@ clientes = {
         "reservas": []
     }
 }
-# Opciones de hoteles predefinidos
+#  hoteles predefinidos
 hoteles = ["Hotel Paris", "Resort Playa Azul", "Hostal Montaña", "Hotel Central City", "Hotel Luxor"]
 
 # Funciones para gestionar los paquetes turísticos
